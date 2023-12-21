@@ -12,11 +12,11 @@ SRCS = main.c\
 			get_data.c\
 			utils.c\
 			parsing.c\
-			colors.c\
-			move.c\
-			ray_cast.c\
-			draw.c\
-			ray_init.c\
+			drawings_utils.c\
+			moves.c\
+			ray_casting.c\
+			drawings.c\
+			init_all.c\
 			pars_utils.c\
 			game.c\
 			fill_data.c\
